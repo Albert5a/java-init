@@ -1,0 +1,4 @@
+EXECUTANDO JAVA FORA DA IDE
+Na pasta bin ficam os arquivos compilados.class disponíveis para execução.
+
+MVC Model View Controler (Padrão Arquitetural)

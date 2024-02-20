@@ -1,0 +1,19 @@
+public class Estante {}
+e = new Estante
+
+Métodos acessores (Getters, Get) acessam o atributo com segurança
+retorna Modelo
+
+Métodos Modificadores (Setters, Set) autoexplicativo
+modelo = m
+retorna modelo
+
+class Classe
+Método Construtor (pode, ter, params)
+setTem()
+setMetodos()
+metodo()
+
+
+Todo esses conceitos para dar mais um passo em Orientação de Objetos.
+Assim criamos Objetos Úteis.

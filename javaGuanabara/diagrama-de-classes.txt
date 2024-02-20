@@ -1,0 +1,18 @@
+DIAGRAMA DE CLASSES
+https://prnt.sc/Uscft3PDgmGw
+
++ publico
+- privado
+# protegido
+
+Classe Caneta
+
+  atributos
+  + modelo 
+  + cor
+  - ponta
+  # carga
+
+  métodos
+  + escrever()
+  - tampar()
